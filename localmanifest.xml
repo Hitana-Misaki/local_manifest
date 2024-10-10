@@ -2,11 +2,11 @@
 
 <manifest>
 
-        <remote name="gitlab"
-        fetch="https://gitlab.com/" />
-
         <remote name="Nonoa"
         fetch="https://github.com/Hitana-Misaki" />
+
+        <remote name="gitlab"
+        fetch="https://gitlab.com/" />
 
         <remote name="Iverz"
         fetch="https://github.com/asterixiverz" />
