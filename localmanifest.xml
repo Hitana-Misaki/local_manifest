@@ -3,13 +3,13 @@
 <manifest>
 
         <remote name="Nonoa"
-        fetch="https://github.com/Hitana-Misaki" />
+        fetch="https://github.com/Hitana-Misaki" clone-depth="1" />
 
         <remote name="gitlab"
-        fetch="https://gitlab.com/" />
+        fetch="https://gitlab.com/" clone-depth="1" />
 
         <remote name="Iverz"
-        fetch="https://github.com/asterixiverz" />
+        fetch="https://github.com/asterixiverz" clone-depth="1" />
 
         <!-- Sync Trees -->
         <project path="device/xiaomi/fog" name="android_device_xiaomi-fog" remote="Nonoa" revision="arrow-t" />
